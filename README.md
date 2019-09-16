@@ -1,4 +1,4 @@
-# fredts
+# dcg.ts
 
 ## Project setup
 ```
