@@ -1,0 +1,8 @@
+{
+    "characters": "data/characters.json",
+    "items": "data/items.json",
+    "map": "data/map.json",
+    "monsters": "data/monsters.json",
+    "npcs": "data/npcs.json",
+    "party": "data/party.json"
+}
